@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\FormManagement\FormManagement\bin\Debug\FormManagement.exe.config
+C:\Users\hp\source\repos\FormManagement\FormManagement\bin\Debug\FormManagement.exe
+C:\Users\hp\source\repos\FormManagement\FormManagement\bin\Debug\FormManagement.pdb
+C:\Users\hp\source\repos\FormManagement\FormManagement\obj\Debug\FormManagement.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FormManagement\FormManagement\obj\Debug\FormManagement.Form1.resources
+C:\Users\hp\source\repos\FormManagement\FormManagement\obj\Debug\FormManagement.Properties.Resources.resources
+C:\Users\hp\source\repos\FormManagement\FormManagement\obj\Debug\FormManagement.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\FormManagement\FormManagement\obj\Debug\FormManagement.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FormManagement\FormManagement\obj\Debug\FormManagement.exe
+C:\Users\hp\source\repos\FormManagement\FormManagement\obj\Debug\FormManagement.pdb
